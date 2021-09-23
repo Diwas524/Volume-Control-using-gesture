@@ -1,0 +1,1 @@
+Gesture recognition is an active research field in Human-Computer Interaction technology. It has many applications in virtual environment control and sign language translation, robot control, or music creation. In this machine learning project on Hand Detection, we are going to make a real-time Hand detector using the CVZONE module and OpenCV Python.
